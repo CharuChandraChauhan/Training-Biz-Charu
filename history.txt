@@ -118,3 +118,4 @@ tail ~/.bash_history
 echo hello
 tail ~/.bash_history 
 date
+vi push_history.sh 
