@@ -119,3 +119,8 @@ echo hello
 tail ~/.bash_history 
 date
 vi push_history.sh 
+date
+cronetab -e
+crontab -e
+tfut
+echo he
