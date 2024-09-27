@@ -87,3 +87,18 @@ vi push_history.sh
 crontab -e
 date
 tail ~/.bash_history 
+date
+tail ~/.bash_history 
+date
+tail ~/.bash_history 
+echo hello
+date
+tail ~/.bash_history 
+vi .bashrc
+./push_history.sh 
+date
+crontab -e
+date
+tail ~/.bash_history 
+vi push_history.sh 
+history -a
