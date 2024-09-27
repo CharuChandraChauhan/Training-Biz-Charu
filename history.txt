@@ -114,3 +114,7 @@ vi push_history.sh
 source .bashrc
 tail ~/.bash_history 
 date
+tail ~/.bash_history 
+echo hello
+tail ~/.bash_history 
+date
