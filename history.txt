@@ -102,3 +102,15 @@ date
 tail ~/.bash_history 
 vi push_history.sh 
 history -a
+tail ~/.bash_history 
+vi push_history.sh 
+crontab -e
+tail ~/.bash_history 
+date
+echo he
+date
+tail ~/.bash_history 
+vi push_history.sh 
+source .bashrc
+tail ~/.bash_history 
+date
