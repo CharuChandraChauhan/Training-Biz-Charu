@@ -1,0 +1,71 @@
+sudo yum install git
+git clone https://github.com/CharuChandraChauhan/Training-Biz-Charu
+vi push_history.sh
+ls
+vi push_history.sh
+chmod +x ~/Training-Biz-Charu/push_history.sh
+sudo chmod +x ~/Training-Biz-Charu/push_history.sh
+sudo chmod +x ~/push_history.sh 
+cd Training-Biz-Charu/
+ls
+cd ..
+ls
+cd Training-Biz-Charu
+crontab -e
+crontab -l
+cd ..
+ls -a
+ls .ssh/
+ssh-keygen --help
+ssh-keygen -t rsa
+ls .ssh/
+cat ~/.ssh/id_rsa.pub
+cd Training-Biz-Charu/
+git remote set-url origin git@github.com:CharuChandraChauhan/Training-Biz-Charu.git
+git remote -v
+ssh -T git@github.com
+~/push_history.sh
+cd ..
+pwd
+ls
+cd Training-Biz-Charu/
+ls
+cat ../push_history.sh 
+vi ../push_history.sh 
+ls
+crontab -e
+../push_history.sh 
+date
+vi ../push_history.sh 
+crontab -e
+date
+cd ..
+ls -a
+vi ./push_history.sh 
+sudo tail /var/log/cron
+crontab -e
+date
+sudo tail /var/log/cron
+ls
+touch ~/.bash_history
+date
+crontab -e
+date
+sudo tail /var/log/cron
+tail ~/.bash_history 
+ls -al
+chmod 600 .bash_history 
+tail ~/.bash_history 
+sudo tail /var/log/cron
+date
+./push_history.sh 
+tail ~/.bash_history 
+history
+tail ~/.bash_history 
+source bashrc
+source ~/.bashrc
+tail ~/.bash_history 
+history
+tail ~/.bash_history 
+tail Training-Biz-Charu/history.txt 
+history -a
