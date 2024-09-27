@@ -128,3 +128,6 @@ echo he
 ~/.ssh/bash_history.pub
 ssh keygen
 ssh-keygen
+~/push_history.sh
+tail ~/.bash_history 
+~/.push_history.sh
