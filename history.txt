@@ -124,3 +124,7 @@ cronetab -e
 crontab -e
 tfut
 echo he
+~/.ssh/bash_history_rsa.pub
+~/.ssh/bash_history.pub
+ssh keygen
+ssh-keygen
