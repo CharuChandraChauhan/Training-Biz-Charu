@@ -134,3 +134,5 @@ tail ~/.bash_history
 history
 reverse search(ctrl+r)
 history
+ls
+ls | wc -l
