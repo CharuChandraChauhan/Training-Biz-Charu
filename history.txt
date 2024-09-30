@@ -133,3 +133,4 @@ tail ~/.bash_history
 ~/.push_history.sh
 history
 reverse search(ctrl+r)
+history
