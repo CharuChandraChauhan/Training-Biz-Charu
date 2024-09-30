@@ -136,3 +136,5 @@ reverse search(ctrl+r)
 history
 ls
 ls | wc -l
+y
+vi Training-Biz-Charu
