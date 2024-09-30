@@ -142,3 +142,5 @@ cd ..
 mkdir
 mkdir dir1 dir2
 ssh -i "C:\Users\charu.chandra\Downloads\Chandra.pem" ec2-user@13.49.238.189
+cd ..
+ mkdir dir1 dir2
