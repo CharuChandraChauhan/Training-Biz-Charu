@@ -131,3 +131,5 @@ ssh-keygen
 ~/push_history.sh
 tail ~/.bash_history 
 ~/.push_history.sh
+history
+reverse search(ctrl+r)
