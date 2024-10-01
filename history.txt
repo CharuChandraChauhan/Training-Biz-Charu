@@ -150,3 +150,5 @@ rmkdir dir1 dir2
 ls
 rm -r dir1 dir2
 ls
+touch newfile.txt
+ls
