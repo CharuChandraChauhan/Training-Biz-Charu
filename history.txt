@@ -148,3 +148,5 @@ sudo mkdir dir1 dir2
 ls
 rmkdir dir1 dir2
 ls
+rm -r dir1 dir2
+ls
