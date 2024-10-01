@@ -157,3 +157,4 @@ rm -r newfile.txt
 ls
 free -g
 du -h
+du -ah
