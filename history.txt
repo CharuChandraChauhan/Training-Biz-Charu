@@ -156,3 +156,4 @@ rmkdir newfile.txt
 rm -r newfile.txt
 ls
 free -g
+du -h
