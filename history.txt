@@ -160,3 +160,4 @@ du -h
 du -ah
 top
 uname -a
+hostname
