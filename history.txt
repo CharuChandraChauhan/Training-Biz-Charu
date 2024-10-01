@@ -158,3 +158,5 @@ ls
 free -g
 du -h
 du -ah
+top
+uname -a
