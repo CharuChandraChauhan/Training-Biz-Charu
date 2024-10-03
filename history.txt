@@ -182,3 +182,7 @@ cd ..
 mkdir dir1
 sudo mkdir dir1
 ls
+pwd
+rmdir dir1
+sudo rmdir dir1
+ls
