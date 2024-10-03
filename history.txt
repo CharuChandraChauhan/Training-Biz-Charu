@@ -204,3 +204,4 @@ cd home
 cd
 ls
 less dir1
+grep dir1
