@@ -191,3 +191,10 @@ ssh -i "C:\Users\charu.chandra\Downloads\Chandra.pem" ec2-user@13.53.129.52
 ls
 cd ..
 ls
+cd ..
+cd -
+ls
+cd ..
+ ssh -i "C:\Users\charu.chandra\Downloads\Chandra.pem" ec2-user@13.53.129.52
+sudo su-
+sudo su
