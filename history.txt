@@ -176,3 +176,9 @@ mkdir dir1 dir2
 ls
 sudo su charu
 ls ~/../
+cd
+pwd
+cd ..
+mkdir dir1
+sudo mkdir dir1
+ls
