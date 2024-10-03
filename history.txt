@@ -165,3 +165,5 @@ ssh Charu1@13.53.129.52
 ssh -i Charu1@13.53.129.5
 ssh charu1@13.53.129.5
 ps -ef
+tail -n 20 history
+ tail ~/.bash_history
