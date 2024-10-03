@@ -186,3 +186,8 @@ pwd
 rmdir dir1
 sudo rmdir dir1
 ls
+ssh -i "C:\Users\charu.chandra\Downloads\Chandra.pem" ec2-user@13.49.238.189
+ssh -i "C:\Users\charu.chandra\Downloads\Chandra.pem" ec2-user@13.53.129.52
+ls
+cd ..
+ls
