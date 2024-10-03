@@ -202,3 +202,5 @@ pwd
 ls
 cd home
 cd
+ls
+less dir1
