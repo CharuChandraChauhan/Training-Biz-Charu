@@ -161,3 +161,4 @@ du -ah
 top
 uname -a
 hostname
+ssh Charu1@13.53.129.52
