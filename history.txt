@@ -216,3 +216,7 @@ sudo yum install python3-pip -y
 pip3 install psutil
 python3 -c "import psutil; print(psutil.__version__)"
 python3 send_email.py
+vi send_email.py
+python3 send_email.py
+vi send_email.py
+python3 send_email.py
