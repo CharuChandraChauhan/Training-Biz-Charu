@@ -205,3 +205,6 @@ cd
 ls
 less dir1
 grep dir1
+sudo yum update -y
+sudo yum install python3 -y
+nano send_email.py
